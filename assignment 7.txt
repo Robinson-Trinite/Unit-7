@@ -1,0 +1,17 @@
+18:
+The function will run since it is called right after it is defined. 
+The function will make a variable (that is only avalible within the function) that holds the text "Hey you" 
+The function then alerts the message out to the user.
+The last part of this script will cause an error since it is trying to access a variable that is not avalible in this scope.
+
+19:
+The first alert runs without an issue. However after the second line the alert is considered a variable.
+Because it is considered a variable, therefore the third line causes an issue.
+
+27:
+
+30:
+a:creates a new date object that will use the current date.
+b:a date that reads "Tue Jan 20 2009 00:00:00 GMT-0800 (Pacific Standard Time)"
+c:-229731979125
+ 
